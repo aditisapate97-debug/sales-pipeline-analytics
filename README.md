@@ -73,6 +73,7 @@ Interactive Power BI Dashboard
         │
         ▼
 Business Insights & Recommendations
+```
 
 This approach ensured that business recommendations were supported by validated data, structured analysis, and interactive visualizations.
 
