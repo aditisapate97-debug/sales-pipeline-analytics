@@ -168,18 +168,18 @@ Identify the products that contribute most to revenue and understand the factors
 
 ## 1. Executive Summary
 
-![Executive Summary](images/executive_summary.png.png)
+![Executive Summary](images/executive_summary.png)
 
 ---
 
 ## 2. Sales Agent Performance
 
-![Sales Agent Performance](images/sales_agent_performance.png.png)
+![Sales Agent Performance](images/sales_agent_performance.png)
 
 ---
 
 ## 3. Product Performance
 
-![Product Performance](images/product_performance.png.png)
+![Product Performance](images/product_performance.png)
 
 (image)
