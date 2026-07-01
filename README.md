@@ -181,5 +181,3 @@ Identify the products that contribute most to revenue and understand the factors
 ## 3. Product Performance
 
 ![Product Performance](images/product_performance.png)
-
-(image)
