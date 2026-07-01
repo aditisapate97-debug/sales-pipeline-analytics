@@ -182,3 +182,72 @@ Identify the products that contribute most to revenue and understand the factors
 ## 3. Product Performance
 
 ![Product Performance](images/product_performance.png)
+
+---
+
+# Key Business Insights
+
+### Executive Summary
+
+- Retail generated the highest revenue, primarily due to the largest opportunity volume.
+- Conversion rates remained relatively consistent across sectors (61–65%), indicating that increasing qualified opportunities may have a greater impact on revenue than improving conversion efficiency alone.
+
+### Sales Agent Performance
+
+- The highest revenue-generating sales agent was not the top conversion performer.
+- Revenue leadership was primarily driven by managing a larger volume of sales opportunities.
+- Sales performance should be evaluated alongside opportunity allocation rather than conversion rate alone.
+
+### Product Performance
+
+- GTX Pro generated the highest revenue by combining strong opportunity volume with a high average deal size.
+- MG Special achieved the highest conversion rate but generated comparatively lower revenue due to smaller deal values.
+- Product performance varied across revenue, conversion, and deal value, highlighting different product sales strategies.
+
+---
+
+# Business Recommendations
+
+Based on the analysis, the following actions could improve sales performance:
+
+- Increase qualified opportunity generation in high-performing sectors to maximize revenue growth.
+- Review opportunity allocation across sales agents to ensure fair performance evaluation and identify coaching opportunities.
+- Expand adoption of premium products such as GTX Pro while maintaining the high-volume sales strategy of GTX Basic.
+- Continue monitoring conversion rates alongside opportunity volume to identify the most effective growth strategies.
+
+---
+
+# Skills Demonstrated
+
+### Business Analytics
+- KPI Development
+- Business Performance Analysis
+- Executive Reporting
+- Data-Driven Decision Making
+
+### SQL
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Conditional Aggregation
+- CASE Statements
+- Common Table Expressions (CTEs)
+- Business KPI Calculations
+
+### Power BI
+- Interactive Dashboard Design
+- Data Visualization
+- Business Storytelling
+- Executive Dashboard Development
+
+### Tools
+- MySQL
+- Power BI
+- Excel
+- Git
+- GitHub
+
+---
+
+# Conclusion
+
+This project demonstrates an end-to-end business analytics workflow—from validating raw sales data and performing SQL-based analysis to designing an executive Power BI dashboard that translates data into actionable business insights and strategic recommendations.
