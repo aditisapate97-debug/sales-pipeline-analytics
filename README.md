@@ -162,22 +162,24 @@ Evaluate individual sales performance and determine whether revenue leadership i
 
 Identify the products that contribute most to revenue and understand the factors driving their performance.
 
-## Dashboard Preview
+---
 
-### Executive Summary
+# Dashboard Preview
 
-(image)
-<img width="888" height="499" alt="image" src="https://github.com/user-attachments/assets/ab024cb7-d8c4-4c33-82f0-1539d06a2f84" />
+## 1. Executive Summary
 
+![Executive Summary](images/executive_summary.png)
 
 ---
 
-### Sales Agent Performance
+## 2. Sales Agent Performance
 
-(image)
+![Sales Agent Performance](images/sales_agent_performance.png)
 
 ---
 
-### Product Performance
+## 3. Product Performance
+
+![Product Performance](images/product_performance.png)
 
 (image)
